@@ -1,0 +1,17 @@
+h1{
+    color: darkblue
+}
+
+h3{
+    color: rgb(190, 103, 103);
+}
+body{
+    background-color: rgb(104, 143, 130);
+    background-image: url(pic.jpg);
+     background-repeat: no-repeat ;
+     background-position: center;
+     background-size: cover;
+     height: 100%;
+     margin: 0%;
+     
+}
